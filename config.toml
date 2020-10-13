@@ -1,0 +1,9 @@
+baseURL = "/"
+title = "🎣 CU Angling Society"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+
+[permalinks]
+"/" = "/:filename/"
+
+
